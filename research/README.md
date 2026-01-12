@@ -1,6 +1,4 @@
-Wer hat früher mitgemacht und kann ggf. helfen?
-
-* https://web.archive.org/web/20170706085210/http://www.fabmaker.com/#testimonials
+Wer hat früher mitgemacht und kann ggf. helfen? https://web.archive.org/web/20170706085210/http://www.fabmaker.com/#testimonials
 
 * Dean Ćirić (Geschäftsführer)
   * https://www.linkedin.com/in/dean-%C4%87iri%C4%87-a6916760/ ✅ angefragt
