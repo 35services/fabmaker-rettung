@@ -9,7 +9,12 @@ Wir wollen den Fabmaker Drucker wieder zum Leben bringen
 > https://www.amazon.de/dp/B00MN5X07U?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_4
 > Fabmaker meinte, man soll nur mit PETG drucken, ob das wirklich so wichtig ist, keine Ahnung, aber vielleicht keine schlechte Idee PETG zu nehmen wenn man damit rumprobiert.
 
-### 2025-12-03: Fabmaker
+### 2025-12-03: Fabmaker abholung
+![](photos/logistics.jpg)
+
+Wir haben einen Fabmaker
+
+### 2025-12-03: Fabmaker research
 
 ### Recherche:
 
