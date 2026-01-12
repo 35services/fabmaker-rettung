@@ -9,6 +9,12 @@ Wir wollen den Fabmaker Drucker wieder zum Leben bringen
 > https://www.amazon.de/dp/B00MN5X07U?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_4
 > Fabmaker meinte, man soll nur mit PETG drucken, ob das wirklich so wichtig ist, keine Ahnung, aber vielleicht keine schlechte Idee PETG zu nehmen wenn man damit rumprobiert.
 
+Wir haben auch die Installations Dateien bekommen:
+* [installer Ordner](installer)
+* [SetupFabmakerSlicer_1.1.1.9.exe](installer/SetupFabmakerSlicer_1.1.1.9.exe) der Slicer
+* [Wartungsprogramme-20260107](installer/Wartungsprogramme-20260107) Wartungsprogramme... mal schauen
+* [Anwenderhandbuch_Pro.pdf](installer/Wartungsprogramme-20260107/Anwenderhandbuch_Pro.pdf)
+
 ### 2025-12-09: Fabmaker abholung
 ![](photos/logistics.jpg)
 
